@@ -1,1 +1,4 @@
-# Coding-Sample
+#Coding Sample – Sirui (Silvie) Mei
+This repository contains coding samples demonstrating quantitative data analysis skills in Stata and Python.
+FH_annotated_SiruiMei.do – Stata do-file replicating and extending the Feldstein-Horioka (1980) savings-investment correlation analysis. Implements pooled OLS, within-estimator (fixed effects), time fixed effects, and two-way fixed effects models using panel data across OECD and emerging market economies to examine the persistence of the F-H puzzle under different specifications.
+q4a_fixed_effects.py – Python script implementing a Theil T index decomposition of county-level labor force participation rates using 2021 ACS 1-year estimates, decomposing total variation into within-state and between-state components following World Bank methodology. Also includes panel fixed effects estimation of the relationship between ln(GDP per capita) and female life expectancy using World Bank WDI data for 1990-2010.
